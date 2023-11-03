@@ -8,3 +8,5 @@ if number == reverse_number:  # palindrome check
     print(number, "is a palindrome!")
 else:
     print(number, "is not a palindrome!")
+
+print("Dyuthi")
